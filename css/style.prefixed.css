@@ -1,0 +1,13 @@
+.test {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+body {
+  Background-color: black;
+  color: white;
+  text-align: center;
+}
+/*# sourceMappingURL=style.prefixed.css.map */

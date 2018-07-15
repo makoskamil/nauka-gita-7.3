@@ -1,2 +1,5 @@
 node_modules/.bin/autoprefixer-cli -o style.prefixed.css style.css
 node_modules/.bin/nu-html-checker *.html
+
+node-sass --output-style compact -o css sass
+node-sass --output-style expanded --source-map true -o css sass
